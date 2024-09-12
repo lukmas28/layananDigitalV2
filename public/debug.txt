@@ -1,0 +1,6 @@
+Array
+(
+    [device] => 6281231029398
+    [stateid] => 3EB0AE9566188A725E9F9A
+    [state] => delivered
+)
